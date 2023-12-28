@@ -1,0 +1,1 @@
+This javascript program generate random number 

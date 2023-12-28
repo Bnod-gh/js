@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .output{
+        text-align: center;
+        font-size: 150px;
+        font-family: helvetica;
+    }
+    .btn{
+        
+        align-items: center;
+        margin: 5px;
+        padding: 10px;
+        font-size: 22px;
+        cursor: pointer;
+    }
